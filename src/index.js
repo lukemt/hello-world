@@ -9,6 +9,6 @@ console.log('Hello World! Wow. Guten Morgen Lukas und noch eine Änderung');
 const str = 'ES6'
 console.log(`Hello ${str}`)
 
-const toby = new Dog('Toby')
+const toby = new Dog('Peter')
 
 console.log(toby.bark())
