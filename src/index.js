@@ -4,7 +4,7 @@
 
 import Dog from './dog'
 
-console.log('Hello World! Wow. Guten Morgen Lukas');
+console.log('Hello World! Wow. Guten Morgen Lukas und noch eine Änderung');
 
 const str = 'ES6'
 console.log(`Hello ${str}`)
